@@ -1,0 +1,17 @@
+{
+  "position_3d": [
+    -9.150398612022398,
+    -2.943532907962799,
+    2.8715911626815798
+  ],
+  "gc_content": 0.3160231673654422,
+  "lux_box_score": 0.62,
+  "top_kmers": [
+    "GTTT",
+    "CAGA",
+    "GCCA",
+    "ATGC",
+    "ACTG"
+  ],
+  "role": "synthetic hybrid \u2014 bridges light emission and quorum sensing"
+}

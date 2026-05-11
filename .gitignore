@@ -1,0 +1,28 @@
+# Large model caches
+.cache/
+
+# Generated images
+images/
+extracted_outputs/
+
+# Data DNA files (regeneratable)
+data/dna/
+data/structures/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Large media files
+*.mov
+*.mp4
+*.tif
+TDMovieOut*
+TDimage*
