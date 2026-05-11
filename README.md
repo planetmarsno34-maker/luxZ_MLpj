@@ -79,6 +79,11 @@ Compute backends are detected automatically:
 
 Cell 0 detects it is not on Colab and skips setup automatically.
 
+## Media Files
+
+TD input image and video are available here:
+[Google Drive](https://drive.google.com/drive/folders/1y10HSUoeiShwtrbsiKCebK_cJEPD2Hom?usp=drive_link)
+
 ---
 
 ## Pipeline overview
